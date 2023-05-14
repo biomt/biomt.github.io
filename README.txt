@@ -1,4 +1,4 @@
-Hi, I made this webpage using a free templacte provided bz html5up.net.
+Hi, I made this webpage using a free template provided by html5up.net.
 ---------
 
 Dimension by HTML5 UP
